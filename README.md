@@ -2,8 +2,7 @@
 <h1 align="center">Egal | Interface Service</h1>
 <p align="center">
 <p align="center">
-<a href="https://github.com/smartworldteam/
-egal-interface-service"><img src="https://img.shields.io/github/license/smartworldteam/
+<a href="https://github.com/smartworldteam/egal-interface-service"><img src="https://img.shields.io/github/license/smartworldteam/
 egal-interface-service"></a>
 <a href="https://hub.docker.com/r/egalbox/interface-service"><img src="https://img.shields.io/docker/v/egalbox/interface-service"></a>
 <a href="https://hub.docker.com/r/egalbox/interface-service"><img src="https://img.shields.io/docker/pulls/egalbox/interface-service"></a>
